@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_title_text_size">18sp</dimen>
+    <dimen name="month_view_height">360dp</dimen>
+</resources>
